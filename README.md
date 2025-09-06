@@ -12,8 +12,7 @@
 
 <p align="left">✨ Creating bugs since 2021 (when I started coding seriously)<br>
 📚 I'm currently learning full-stack development, geospatial data manipulation, and diving deeper into AI/ML<br>
-🎯 Goals: Build impactful AI-driven products and launch my own successful startup<br>
-🎲 Fun fact: My favorite anime is Attack on Titan, and I enjoy exploring cultures and learning something new every day</p>
+🎯 Goals: Build impactful AI-driven products.<br>
 
 ###
 
