@@ -14,6 +14,11 @@
 📚 I'm currently learning full-stack development, geospatial data manipulation, and diving deeper into AI/ML<br>
 🎯 Goals: Build impactful AI-driven products.<br>
 
+
+###
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imadeddig&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
 ###
 
 <h2 align="left">Languages and Tools I use :</h2>
@@ -71,5 +76,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
 </div>
+<img src="https://raw.githubusercontent.com/imadeddig/imadeddig/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ###
