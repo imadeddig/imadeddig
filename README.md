@@ -3,6 +3,15 @@
 ###
 
 <p align="left">My name is Ahsatal Imad Eddine and I'm a 20-year-old AI student at the National Higher School of Artificial Intelligence, from Algeria.</p>
+<div align="center">
+  <a href="mailto:imad.eddine.ahsaral@ensia.edu.dz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/imad-eddine-ahsatal-8b75932a1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
+
 
 ###
 
